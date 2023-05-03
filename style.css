@@ -34,7 +34,7 @@ h1 {
     border: 1px solid grey;
 }
 
-#reset {
+#reset, #sketch, #erase {
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
     font-weight: 900;
